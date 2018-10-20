@@ -1,0 +1,75 @@
+{
+  "games" : [ {
+    "gameName" : "Evil fights Good 3rd Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Orcs",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4487,
+          "optionName" : "Small daggers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4550,
+          "optionName" : "Big axes",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Grunts",
+        "unitCost" : 15,
+        "unitID" : 4430,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Ogres",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4784,
+          "optionName" : "Ogre boss",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 50,
+        "unitID" : 4783,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Catapult",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4787,
+          "optionName" : "Ice rocks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4788,
+          "optionName" : "Fire rocks",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 25,
+        "unitID" : 4786,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Troll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Boss",
+        "unitCost" : 100,
+        "unitID" : 4789,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Evil army",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Boss", "Grunts", "Special" ]
+  } ]
+}

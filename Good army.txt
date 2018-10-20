@@ -1,0 +1,119 @@
+{
+  "games" : [ {
+    "gameName" : "Evil fights Good 3rd Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Knight",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4794,
+          "optionName" : "Plate armour",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4795,
+          "optionName" : "Mail armour",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 20,
+        "unitID" : 4790,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Paladin",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4830,
+          "optionName" : "Holy sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4833,
+          "optionName" : "Large shield",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 30,
+        "unitID" : 4791,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cavalry squad",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4872,
+          "optionName" : "Leader",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 50,
+        "unitID" : 4792,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "General",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Boss",
+        "unitCost" : 90,
+        "unitID" : 4793,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Battle mage",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4913,
+          "optionName" : "Fire spells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4947,
+          "optionName" : "Air spells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4975,
+          "optionName" : "Water spells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4976,
+          "optionName" : "Ice spells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4977,
+          "optionName" : "Stone spells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4978,
+          "optionName" : "Poison spells",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Special",
+        "unitCost" : 60,
+        "unitID" : 4911,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Good army",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Boss", "Grunts", "Special" ]
+  } ]
+}
